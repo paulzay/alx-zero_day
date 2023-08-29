@@ -1,1 +1,1 @@
-Git dir
+Git directory
